@@ -1,0 +1,7 @@
+step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
+paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
+1,carved-strombus-shell,0.17102653798715997,0.5738489051835369,2.0736,,"How is the shell modified for making sounds/maximizing sound? ",,,,,,,,,
+3,carved-strombus-shell,0.5,0.5,1,,"Who could use the shell? ",,,,,,,,,
+4,carved-strombus-shell,0.5,0.5,1,,"What the noise signified/how often it was used? ",". ",,,,,,,,
+2,carved-strombus-shell,0.5227842911745711,0.5615997176508231,2.48832,,What the symbols mean on the shell and why they are on the shell?,,,,,,,,,
+5,carved-strombus-shell,0.5,0.5,1,,"Were there different shell carvings? ",". ",,,,,,,,
